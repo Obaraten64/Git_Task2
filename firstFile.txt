@@ -1,10 +1,14 @@
+<<<<<<< Updated upstream
 line 1 - Folder 2 modification
+=======
+line 1 - Folder 1 modification
+>>>>>>> Stashed changes
 line 2
 line 3 - Folder 2 modification
 line 4
-line 5
+line 5 - Another Folder 1 modification
 line 6
 line 7
 line 8 - second modification
 line 9 - second modification
-line 10 - first modifcation
+line 10 - Folder 1 modification
