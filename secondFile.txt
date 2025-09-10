@@ -1,9 +1,9 @@
 line 10
 line 9
-line 8
+line 8 - git_2 update
 line 7
 line 6
-line 5
+line 5 - git_2 update
 line 4
 line 3
 line 2
